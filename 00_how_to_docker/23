@@ -1,1 +1,1 @@
-docker network create overmind
+docker network create -d overlay overmind

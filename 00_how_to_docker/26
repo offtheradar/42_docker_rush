@@ -1,0 +1,2 @@
+docker service create --replicas 2 --network overmind -e OC_USERNAME=yacine -e OC_PASSWD=lol123 42school/engin
+eering-bay
